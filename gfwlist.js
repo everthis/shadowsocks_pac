@@ -2,6 +2,8 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "v2ex.com": 1,
+  "ift.tt": 1,
   "polymer-project.org": 1,
   "ero-advertising.com": 1,
   "e-hentai.org": 1,
