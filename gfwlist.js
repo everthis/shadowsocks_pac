@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "gravatar.com": 1,
   "v2ex.com": 1,
   "ift.tt": 1,
   "polymer-project.org": 1,
